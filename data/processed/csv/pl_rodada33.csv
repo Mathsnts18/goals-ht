@@ -1,0 +1,11 @@
+day,home,hour,away,home_0.5+%,away_0.5+%,avg_0.5+%,acima_da_media?
+Sa 13 Apr,Brentford,14:00,Sheffield Utd,75.0,73.0,74.0,1
+Sa 13 Apr,Burnley,14:00,Brighton,94.0,81.0,87.5,1
+Sa 13 Apr,Manchester City,14:00,Luton Town,81.0,75.0,78.0,1
+Sa 13 Apr,Newcastle Utd,14:00,Tottenham,69.0,80.0,74.5,1
+Sa 13 Apr,Nottm Forest,14:00,Wolverhampton,56.0,62.0,59.0,0
+Sa 13 Apr,Bournemouth,16:30,Manchester Utd,62.0,56.0,59.0,0
+Su 14 Apr,Liverpool,13:00,Crystal Palace,81.0,62.0,71.5,0
+Su 14 Apr,West Ham Utd,13:00,Fulham,81.0,62.0,71.5,0
+Su 14 Apr,Arsenal,15:30,Aston Villa,87.0,81.0,84.0,1
+Mo 15 Apr,Chelsea,19:00,Everton,73.0,56.0,64.5,0
