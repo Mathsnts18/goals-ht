@@ -1,6 +1,6 @@
 # GOALS-HT
 
-![alt text](<Goal HT.jpg>)
+![alt text](<img/Goal HT.jpg>)
 
 
 ## 📌 Visão Geral
