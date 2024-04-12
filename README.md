@@ -1,11 +1,11 @@
 # GOALS-HT
 
-![alt text](<img/Goal HT.jpg>)
+![alt text](<Goal HT.jpg>)
 
 
 ## 📌 Visão Geral
 
-Este projeto pessoal tem o intuito de, por meio de técnicas de web crawler e ETL, coletar tabelas do site [SoccerStats.com](https://www.soccerstats.com/), e criar uma nova tabela com estatísticas semanais de gols HT da Premier League. Foi utilizado as bibliotecas [Requests](https://requests.readthedocs.io/en/latest/) e [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) para coleta dos dados e [Pandas](https://pandas.pydata.org/docs/#) para documentação, transformação e carregamento desses dados em .CSV e .XLSX.
+Este projeto pessoal tem o intuito de, por meio de técnicas de web scraping e ETL, extrair tabelas do site [SoccerStats.com](https://www.soccerstats.com/), e criar uma nova tabela com estatísticas semanais de gols HT da Premier League. Foi utilizado as bibliotecas [Requests](https://requests.readthedocs.io/en/latest/) e [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) para coleta dos dados e [Pandas](https://pandas.pydata.org/docs/#) para documentação, transformação e carregamento desses dados em .CSV e .XLSX.
 
 ## ⚽ Goals HT
 
@@ -24,7 +24,7 @@ Onde se aposta se vai sair mais ou menos de um, dois, três gols e assim por dia
 
 ## 📊 Análise da tabela
 
-Antes de tudo, é importante salientar que esse é um **projeto pessoal** e não tem um intuito de ensinar algum método de aposta. Esse projeto serve apenas para meus estudos.
+Antes de tudo, é importante salientar que esse é um **estudo de caso** e não tem um intuito de ensinar algum método de aposta mas demonstrar um **método de extração de dados com ETL**.
 
 Iremos coletar informações da tabela de estatisticas de gols no primeiro tempo da Premier League...
 
